@@ -1,0 +1,8 @@
+GameProject {
+ ID "FIA"
+ GUID "68593E14AE03C862"
+ TITLE "FIA"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
